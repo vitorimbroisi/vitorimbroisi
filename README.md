@@ -31,11 +31,6 @@
     <img align="center" title="MySQL" alt="Mysql" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
     <img align="center" title="MongoDB" alt="Mongodb" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   </div>
-  
-  <div>
-    <h3>Prototyping:</h3>
-    <img align="center" title="Arduino" alt="Arduino" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
-  </div>
 </div>
 
 <br>
