@@ -43,5 +43,5 @@
 <div align="center">
   <img align="center" alt="Snake contribution" src="https://github.com/vitorimbroisi/vitorimbroisi/blob/output/github-contribution-grid-snake.svg" />
 </div>
-///
+//
 
