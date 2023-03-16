@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Vitor!</h1>
-<h2 align="center">Full-stack Web Development Student at Trybe!</h2>
+<h2 align="center">Full-stack Web Development at Vibra Energia.
 
 <div align="center">
   <a href="https://github.com/vitorimbroisi">
