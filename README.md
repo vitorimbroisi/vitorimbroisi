@@ -22,7 +22,6 @@
     <img align="center" title="Jest" alt="Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
     <img align="center" title="React.js" alt="React" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center" title="Redux.js" alt="Redux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-    <img align="center" title="Tailwind CSS" alt="Tailwind" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
     <img align="center" title="RTL" alt="Rtl" height="35" width="35" src="https://testing-library.com/img/octopus-64x64.png" />
   </div>
   
